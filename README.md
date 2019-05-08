@@ -1,2 +1,2 @@
 # basetools
-dependency-light convenience functions 
+R package: dependency-light convenience functions 

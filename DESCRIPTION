@@ -1,0 +1,16 @@
+Package: basetools
+Title: Various Convenience Functions with Minimal Dependencies
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Lewis",
+           family = "Crouch",
+           role = c("aut", "cre"),
+           email = "first.last@example.com")
+Description: Contains a variety of utility functions.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    stats,
+    utils
+RoxygenNote: 6.1.1
